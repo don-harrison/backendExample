@@ -1,0 +1,15 @@
+--H2 will auto generate these tables based on entities
+--goes in resources folder
+-- CREATE TABLE IF NOT EXISTS CUSTOMER (
+-- id INT AUTO_INCREMENT  PRIMARY KEY,
+-- name VARCHAR(50) NOT NULL,
+-- address VARCHAR(50) NOT NULL,
+-- email VARCHAR(250) DEFAULT NULL
+-- );
+--
+-- CREATE TABLE IF NOT EXISTS Inventory (
+--    productId INT AUTO_INCREMENT  PRIMARY KEY,
+--    name VARCHAR(50) NOT NULL,
+--    price VARCHAR(50) NOT NULL,
+--    stock INT NOT NULL
+-- );
